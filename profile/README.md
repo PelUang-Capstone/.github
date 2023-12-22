@@ -14,19 +14,19 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS055
 
 |            Name            | Bangkit ID  |        Role        |                     University                      |                  Github                   |
 | :------------------------: | :---------: | :----------------: | :-------------------------------------------------: | :---------------------------------------: |
-|     Rakha Dimas Putra      | C705BSY4070 |  Cloud Computing   |            Universitas Siber Indonesia              |   [Github](https://github.com/isallkun)   |
-|      Muhamad Fadillah      | C688BSY4187 |  Cloud Computing   |          Universitas Muhammadiyah Banten            |   [Github](https://github.com/ArkaTri)    |
-|       Yehezkiel Arly       | A102BSY2015 | Mobile Development |    Institut Bisnis dan Informatika Kwik Kian Gie    |   [Github](https://github.com/Adrnsyh7)   |
-|      Henry Junior Zai      | A569BSY2068 | Mobile Development |          Universitas Katolik Santo Thomas           | [Github](https://github.com/usmarmanalu)  |
-|  Alief Adha Putra Damanik  | M184BSY0846 |  Machine Learning  |                Universitas Andalas                  | [Github](https://github.com/azissukmawan) |
-|      Andini Nurhasanah     | M277BSX0908 |  Machine Learning  |             Universitas Negeri Jakarta              | [Github](https://github.com/aquariauriga) |
-|   Farah Fauziah Novianti   | M277BSX1820 |  Machine Learning  |             Universitas Negeri Jakarta              |   [Github](https://github.com/WisnuPo)    |
+|     Rakha Dimas Putra      | C705BSY4070 |  Cloud Computing   |            Universitas Siber Indonesia              |   [Github](https://github.com/Rakhadp11)  |
+|      Muhamad Fadillah      | C688BSY4187 |  Cloud Computing   |          Universitas Muhammadiyah Banten            |   [Github](https://github.com/FadillMD)   |
+|       Yehezkiel Arly       | A102BSY2015 | Mobile Development |    Institut Bisnis dan Informatika Kwik Kian Gie    |   [Github](https://github.com/kirinotkiri)   |
+|      Henry Junior Zai      | A569BSY2068 | Mobile Development |          Universitas Katolik Santo Thomas           | [Github](https://github.com/henryjrzai)  |
+|  Alief Adha Putra Damanik  | M184BSY0846 |  Machine Learning  |                Universitas Andalas                  | [Github](https://github.com/lipzy13) |
+|      Andini Nurhasanah     | M277BSX0908 |  Machine Learning  |             Universitas Negeri Jakarta              | [Github]|
+|   Farah Fauziah Novianti   | M277BSX1820 |  Machine Learning  |             Universitas Negeri Jakarta              |   [Github]    |
 
 # Our Repository
 |Learning Path|Repository Name|Repository Link|
 | ----------- | ----------- | ----------- |
-|Machine Learning|ML|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/ML)|
-|Mobile Development|SymptoMed-App|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/SymptoMed-App)|
+|Machine Learning|ML|[This Link](https://github.com/lipzy13/PelUang-ML)|
+|Mobile Development|SymptoMed-App|[This Link](https://github.com/kirinotkiri/Capstone-Project-Peluang)|
 |Cloud Computing|CC|[This Link](https://github.com/Rakhadp11/backend-capstone)|
 
 <p>&nbsp;&nbsp;</p>
