@@ -5,7 +5,7 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS055
 ## Introduction
 
 <div align="center">
-<img src="https://github.com/PelUang-Capstone/.github/blob/main/PelUang.png" >  
+<img src="https://github.com/PelUang-Capstone/.github/blob/main/PelUang.png" style="width: 40%; height: 40%;">  
 </div> <br>
 
 **PelUang: Business Opportunity Platform**. 📱💸
@@ -22,6 +22,24 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS055
 |      Andini Nurhasanah     | M277BSX0908 |  Machine Learning  |             Universitas Negeri Jakarta              | [Github](https://github.com/aquariauriga) |
 |   Farah Fauziah Novianti   | M277BSX1820 |  Machine Learning  |             Universitas Negeri Jakarta              |   [Github](https://github.com/WisnuPo)    |
 
+# Our Repository
+|Learning Path|Repository Name|Repository Link|
+| ----------- | ----------- | ----------- |
+|Machine Learning|ML|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/ML)|
+|Mobile Development|SymptoMed-App|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/SymptoMed-App)|
+|Cloud Computing|CC|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/CC)|
+
+<p>&nbsp;&nbsp;</p>
+
+# Supported By
+<div style="justify-content: center;">
+    <img src="profile/media/transparent - bangkit -km.png" alt="" style="width: 100%;">
+</div>
+
+<p>&nbsp;&nbsp;</p>
+
+<h1 align="center">Thanks!</h1>
+<br>
 <!--
 
 **Here are some ideas to get you started:**
