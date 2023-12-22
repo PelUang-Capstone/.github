@@ -26,7 +26,7 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS055
 |Learning Path|Repository Name|Repository Link|
 | ----------- | ----------- | ----------- |
 |Machine Learning|ML|[This Link](https://github.com/lipzy13/PelUang-ML)|
-|Mobile Development|SymptoMed-App|[This Link](https://github.com/kirinotkiri/Capstone-Project-Peluang)|
+|Mobile Development|PelUang-App|[This Link](https://github.com/kirinotkiri/Capstone-Project-Peluang)|
 |Cloud Computing|CC|[This Link](https://github.com/Rakhadp11/backend-capstone)|
 
 <p>&nbsp;&nbsp;</p>
