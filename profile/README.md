@@ -5,7 +5,7 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS055
 ## Introduction
 
 <div align="center">
-<img src="https://github.com/PelUang-Capstone/.github/blob/main/PelUang.png" style="width: 40%; height: 40%;">  
+<img src="https://github.com/PelUang-Capstone/.github/blob/main/profile/media/PelUang.png" style="width: 40%; height: 40%;">  
 </div> <br>
 
 **PelUang: Business Opportunity Platform**. 📱💸
