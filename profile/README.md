@@ -27,7 +27,7 @@ Repository Capstone Project Bangkit Academy 2023 Team CH2-PS055
 | ----------- | ----------- | ----------- |
 |Machine Learning|ML|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/ML)|
 |Mobile Development|SymptoMed-App|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/SymptoMed-App)|
-|Cloud Computing|CC|[This Link](https://github.com/SymptoMed-Bangkit-Capstone/CC)|
+|Cloud Computing|CC|[This Link](https://github.com/Rakhadp11/backend-capstone)|
 
 <p>&nbsp;&nbsp;</p>
 
